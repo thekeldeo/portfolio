@@ -1234,6 +1234,8 @@ body.is-loading #bg:before {
     border: solid 1px #ffffff;
     border-radius: 100%;
     padding: 6px;
+    background: url("https://thekeldeo.github.io/assets/img/logo.jpg") center;
+    background-size: contain;
 }
 
 #header .logo .icon:before {
